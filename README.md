@@ -1,4 +1,6 @@
 # node-dev
-A NodeJS development environment for VSCode container development. Includes tags for global installs.
+A NodeJS development environment for VSCode container development. 
 
-This image uses the latest node:alpine image as its base layer.
+Includes tags for globally installed npm packages.
+
+All images are currently node:alpine image as its base layer
